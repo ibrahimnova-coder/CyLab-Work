@@ -7,13 +7,20 @@ The 10 challenges that I will be covering are as follows :
 -Artificial Intelligence : Neuron Express 0 (Easy)
 
 -Artificial Intelligence : Perceptron Play Alpha (Easy)
+
 -Artificial Intelligence : Perceptron Train Hole in Middle (Easy)
 -General Skills : convertme.py (Easy)
+
 -General Skills : First Grep (Easy) 
+
 -Reverse Engineering : Bit-O-Asm-4 (Medium)
+
 -Reverse Engineering : GDB baby step 2 (Medium)
+
 -Web Exploitation : Irish-Name-Repo-2 (Medium)
+
 -Web Exploitation : More SQLi (Medium)
+
 -Forensics : extensions (Medium)
 
-Alright, let's dive right in!
+Alright, now let's dive right in!
