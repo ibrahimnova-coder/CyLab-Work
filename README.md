@@ -9,6 +9,7 @@ The 10 challenges that I will be covering are as follows :
 -Artificial Intelligence : Perceptron Play Alpha (Easy)
 
 -Artificial Intelligence : Perceptron Train Hole in Middle (Easy)
+
 -General Skills : convertme.py (Easy)
 
 -General Skills : First Grep (Easy) 
