@@ -30,9 +30,9 @@ A perceptron only fires (a 1) when the mathematical sum is greater than or equal
 
 w = 1, x = 2 (we need the decision boundary to be at 2, so the equation must equal 0, must equal the dividing line, when x = 2)
 
-w(x) + b = 0,
+w(x) + b = 0
 
-1x2 + b = 0,
+1x2 + b = 0
 
 b = -2
 
