@@ -5,6 +5,7 @@ Before we get right in, my Cylab Security Academy profile : https://learn.cylaba
 The 10 challenges that I will be covering are as follows :
 
 -Artificial Intelligence : Neuron Express 0 (Easy)
+
 -Artificial Intelligence : Perceptron Play Alpha (Easy)
 -Artificial Intelligence : Perceptron Train Hole in Middle (Easy)
 -General Skills : convertme.py (Easy)
