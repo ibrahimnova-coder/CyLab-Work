@@ -19,7 +19,16 @@ Of course, the beginnings are always the same :
 
 <img width="422" height="26" alt="image" src="https://github.com/user-attachments/assets/bc9fe10d-ab02-427e-ac07-6326dddbe26b" />
 <img width="702" height="686" alt="image" src="https://github.com/user-attachments/assets/67ad8f83-a21f-4dd5-a905-ff7625717e4a" />
+<img width="335" height="197" alt="image" src="https://github.com/user-attachments/assets/08e7ad4b-8642-41e2-82ac-d36166f711c3" />
 
-Oh man, 
+
+Oh man, that looks like a lot, huh? No matter. Alright, we won't confuse ourselves. Telling myself that, I started simple.
+Again, we're still dealing with a single perceptron here. We'll use the good old methods, methods long before the descent of learning rates - trial and error.
+
+<img width="368" height="502" alt="image" src="https://github.com/user-attachments/assets/0802840a-b227-4a23-98a7-c45302ac2fc9" />
+
+Always remember, there's no need to overcomplicate things from the very beginning. Start from scratch, and if it's too simple to work, step up your algorithms a notch. I had all the time in the world to pull out a notebook and pen and start manually calculating everything, but I wanted to see if trial and error got me anywhere first. And I feel that this applies to all walks of life. Perceptrons, even. Test the waters to figure out how deep it is first. Or else you may end up diving straight into shallow waters and hit your head.
+
+
 
 
