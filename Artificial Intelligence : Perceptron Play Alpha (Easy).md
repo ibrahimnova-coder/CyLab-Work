@@ -6,5 +6,18 @@ Before we dive right in, think about it - a single perceptron has a boundary lin
 
 What do you know! On that note, here's the challenge :
 
+<img width="1443" height="438" alt="image" src="https://github.com/user-attachments/assets/d9e8b408-cc55-4900-9124-b439309e44b0" />
+
+Yeah, our challenge here also deals in two dimensions. And for two dimensions, the equation we have now is :
+
+w1.x1 + w2.x2 + b >= 0
+
+I found it simple enough. All we're doing is adding the second input, and naturally the weight is multiplied twice, since one set of input values can weigh different from the other, and bias is chill. 
+Well, let's begin!
+
+Of course, the beginnings are always the same : 
+
+<img width="422" height="26" alt="image" src="https://github.com/user-attachments/assets/bc9fe10d-ab02-427e-ac07-6326dddbe26b" />
+
 
 
