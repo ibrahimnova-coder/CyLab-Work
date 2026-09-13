@@ -18,6 +18,8 @@ Well, let's begin!
 Of course, the beginnings are always the same : 
 
 <img width="422" height="26" alt="image" src="https://github.com/user-attachments/assets/bc9fe10d-ab02-427e-ac07-6326dddbe26b" />
+<img width="702" height="686" alt="image" src="https://github.com/user-attachments/assets/67ad8f83-a21f-4dd5-a905-ff7625717e4a" />
 
+Oh man, 
 
 
