@@ -4,5 +4,7 @@ Before we dive right in, think about it - a single perceptron has a boundary lin
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/319c2131-a0b6-462c-912a-c103552469e3" />
 
-What do you know! On that note, 
+What do you know! On that note, here's the challenge :
+
+
 
