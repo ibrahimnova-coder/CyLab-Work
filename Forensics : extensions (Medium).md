@@ -25,3 +25,6 @@ Then, what if we only renamed .txt to .png? Wouldn't a renaming automatically ch
 
 Alright, thank you kind sirs! Now, let's test the theory, and...
 
+<img width="478" height="17" alt="image" src="https://github.com/user-attachments/assets/79f023b9-21e1-43b8-b4cf-e4797333efdd" />
+<img width="1505" height="535" alt="image" src="https://github.com/user-attachments/assets/0a6d5e38-6f55-4e5e-864a-9947ef722322" />
+Nice! (I used a less conventional method here. I converted the binary image into this wall of base64 text using base64 flag.png, and then used a base64 to image converter to see our beautiful flag in the flesh. There are a hundred other methods to view the flag in this challenge, though!)
