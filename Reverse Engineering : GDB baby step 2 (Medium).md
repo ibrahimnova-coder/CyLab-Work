@@ -34,7 +34,7 @@ This part is pretty useless for us! So what if we set a breakpoint such that the
 Ah, found it, so let's do our thing now, and...
 
 <img width="627" height="756" alt="image" src="https://github.com/user-attachments/assets/ead90c29-84ce-4bde-9ac6-24666646c8ee" />
-<img width="1451" height="724" alt="image" src="https://github.com/user-attachments/assets/385aace0-5e70-42a6-b981-83d87022e744" />
+<img width="1451" height="670" alt="image" src="https://github.com/user-attachments/assets/385aace0-5e70-42a6-b981-83d87022e744" />
 
 Sweet!
 
