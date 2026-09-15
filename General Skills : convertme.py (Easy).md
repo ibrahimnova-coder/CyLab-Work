@@ -10,8 +10,6 @@ That said, here's our challenge :
 
 First of all, I noticed that Python code files seem to have their own file extension : .py. I kept that mind incase I ever need to do something similar to the 'extensions' challenge, where I had to change the file extension name to match the actual format the file is supposed to be in.
 
-<img width="1845" height="219" alt="image" src="https://github.com/user-attachments/assets/18504bbd-31cf-45ae-869b-aee2eb8b443c" />
-
 Of course, you always gotta start with the good old wget.
 
 After that, I decided to try and inspect the file using nano. Nano always worked on all of the files inside my webshell, so will it also work in my .py file, or is there another command for that? Let's see...
