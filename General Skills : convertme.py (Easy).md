@@ -2,6 +2,10 @@ In this space, I will be narrating my full experience with the convertme.py chal
 
 This may be incredibly easy, but it was the challenge that taught me all the basics I need to know when dealing with Python related challenges. Truthfully, I actually have not touched upon Python all that much as of doing this challenge (before my A2 Level begins), so this challenge gave me an overview into the world of this particular coding language through various ways.
 
+That said, here's our challenge :
+
+<img width="751" height="208" alt="image" src="https://github.com/user-attachments/assets/1fa3d159-af77-41df-b02b-3855492ba5ff" />
+
 <img width="198" height="61" alt="image" src="https://github.com/user-attachments/assets/c96e52c9-f6da-4a24-aa0e-4ddd0c4b5b26" />
 
 First of all, I noticed that Python code files seem to have their own file extension : .py. I kept that mind incase I ever need to do something similar to the 'extensions' challenge, where I had to change the file extension name to match the actual format the file is supposed to be in.
