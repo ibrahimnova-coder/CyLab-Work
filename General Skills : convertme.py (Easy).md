@@ -20,7 +20,9 @@ Ah, it worked like a charm! And now, looking at this file, I don't seem to see e
 It looks to be... python3. So, I've learned quite a lot here :
 
 -Python files have their own file type.
+
 -They can be downloaded using wget and inspected using nano like other files.
+
 -python3 filename runs any python script.
 
 Alright, now the moment of truth.
