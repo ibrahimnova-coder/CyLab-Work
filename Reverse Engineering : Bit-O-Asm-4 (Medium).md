@@ -35,6 +35,15 @@ Well, after that brutal comparison, we're immediately followed up by our main cu
 <+31>: Here, because it says "sub", we're subtracting 0x65 from 0x9fe1a. Using CyberChef yet again, that gives us :
 
 <img width="134" height="531" alt="image" src="https://github.com/user-attachments/assets/d60c68ee-4bb9-4aca-8caf-1f2a41ac2709" />
+654874 - 101 = 654773
 
+<+35>: That's just an unconditional jump. Hey, I'm not complaining ; makes things easier for us.
 
+(We skip <+37> because of the jump.)
+
+<+41>: So now, eax comes out to a value of 654773, and that's our answer... hopefully...
+
+<img width="1440" height="648" alt="image" src="https://github.com/user-attachments/assets/3f268110-891f-4359-b5bf-63f2489a6a20" />
+
+Alright!
 
