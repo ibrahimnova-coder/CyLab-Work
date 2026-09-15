@@ -7,7 +7,4 @@ Here's what we're gonna tackle :
 <img width="1396" height="358" alt="image" src="https://github.com/user-attachments/assets/65430b56-4223-4be5-9cad-de545fd8e73e" />
 
 Now, it all starts with... wget. It always did, always does, and always will.
-
-<img width="1838" height="211" alt="image" src="https://github.com/user-attachments/assets/92911f76-1f05-4482-a35b-423a560597df" />
-
 Alright, what I've learned about is this neat little tool in our webshell called GDB. To activate it for a certain file, we'll use 
